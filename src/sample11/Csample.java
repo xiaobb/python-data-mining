@@ -8,3 +8,9 @@ System.out.println("hello world");
 	}
 
 }
+/*
+ * 这部分是注释的内容
+ * 
+ * 
+ * 
+ * */
