@@ -25,3 +25,7 @@ System.out.println(name);
 	}
 
 }
+/*
+ * this is a english note
+ * 
+ * */
