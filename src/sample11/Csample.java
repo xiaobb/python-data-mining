@@ -25,9 +25,3 @@ System.out.println(name);
 	}
 
 }
-/*
- * 这部分是注释的内容
- * 
- * 
- * 
- * */
