@@ -1,4 +1,4 @@
-package sample11;
+
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -14,9 +14,9 @@ public class Csample {
 		
 System.out.println("hello world");
 //Scanner in=new Scanner(System.in);
-Scanner in=new Scanner(Paths.get("f:\\javatest.txt"));
-String name=in.nextLine();
-System.out.println(name);
+//Scanner in=new Scanner(Paths.get("f:\\javatest.txt"));
+//String name=in.nextLine();
+//System.out.println(name);
 //System.out.println("name?");
 //int name= in.nextInt();
 
